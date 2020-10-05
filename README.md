@@ -1,0 +1,2 @@
+# digital-home
+ Cette application mobile permet de suivre la localisation instantanée des piétons, de prévoir et ainsi prévenir les risques de collision avec des voitures connectées ou autonomes (entre des utilisateurs de smartphone aussi) dont on trace le déplacement à l'aide de la technologie LTE-M utilisant le réseau 4G d'Orange. Le transfert d'informations de localisation entre les objects connectés a été réalisé avec le protocole MQTT qui est le standard pour l'IoT Messaging avec comme broker LiveObjects une plateforme IoT de l'opérateur Orange.
